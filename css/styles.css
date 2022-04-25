@@ -603,13 +603,15 @@ img {
 
 @media screen and (max-width: 650px) {
   iframe {
-    width: auto;
+    height: 400px;
+    width: 400px;
   }
 }
 
 @media screen and (max-width: 400px) {
   iframe {
-    width: auto;
+    height: 300px;
+    width: 300px;
   }
 }
 /* Carroussel */
